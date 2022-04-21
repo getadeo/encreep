@@ -24,4 +24,3 @@ def decrypt_message(encrypted_message):
     print(decrypted_message.decode())
 
 if __name__ == "__main__":
-    decrypt_message(b'gAAAAABiYP9ZAQo69ilseQNrrYqTQc4Tc2h18JJ4H2ppFy6EypzaZJbj49Q2OxL1FIhz4-ig_uAP10CF7uHIJgmWx0PvFj_hng==')
